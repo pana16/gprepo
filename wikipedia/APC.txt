@@ -1,0 +1,310 @@
+The '''Association for Progressive Communications''' ('''APC''') is an international network of organizations that was founded in 1990 to provide [[communication]] [[infrastructure]], including [[Internet]]-based applications, to groups and individuals who work for [[peace]], [[human rights]], [[Environmental movement|protection of the environment]], and [[sustainability]]. Pioneering the use of [[Information technology|ICTs]] for [[civil society]], especially in developing countries, APC were often the first providers of Internet in their member countries.
+
+{{toclimit|2}}
+
+==History==
+
+APC was founded in 1990 by:
+* [[Institute for Global Communications]] (IGC), [[San Francisco]];
+* [[GreenNet]], [[London]];
+* [[IBASE]], [[Rio de Janeiro]];
+* [[Nicarao]], [[Managua]];
+* [[Pegasus Networks]], [[Byron Bay]];
+* [[Web Networks]], [[Toronto]];
+* [[NordNet]], [[Sweden]]
+
+{{citation needed}}
+
+===1990===
+* APC was founded by IGC (USA), GreenNet (UK), NordNet ([[Sweden]]), Web Networks (Canada), Alternex/IBASE (Brazil), Nicarao/CRIES ([[Nicaragua]]), and [[Pegasus Networks]] ([[Australia]]).
+* The GnFido (GreenNet Fidonet) gateway at GreenNet provided the first means of exchanging e-mail between [[Web hosting|e- mail hosts]] in [[Africa]] and the rest of the world. By 1994, GnFido provided [[Internet service provider|Internet gateway services]] to over 50 e-mail hosts in Africa, Asia and [[Central Europe|Central]] and [[Eastern Europe]].
+* Members of IGC and the German [[CL-Net]] visited [[Moscow]] and returned the following year to help Russian activists get GlasNet running, to facilitate the emerging civil society's communication during the [[History of the Soviet Union (1985-1991)|fall of communism]] in [[Russia]].
+
+===1991===
+* Southern and Northern NGOs meeting in [[Nairobi]] identified e-mail and the APC conferences as a tool for distance-lobbying the Earth Summit. Chasque, a network created by the [[ITeM|Third World Institute (ITeM)]] in [[Uruguay]], and IGC set up the first e-mail and conference system running from the UN itself in New York, during a preparatory meeting for the Earth Summit.
+* A Fidonet gateway was set up by roving technician, Mike Jensen, at WorkNet/SANGONeT in South Africa, providing Internet mail connections to [[Zimbabwe]], [[Malawi]], [[Zambia]], [[Botswana.]]
+* Email [http://interred.wordpress.com/2007/01/15/cuba-e-a-internet-o-inicio-de-apc/ links are set up between Cuba and APC networks]. They call the Cuban servers three times a day to deliver and collect email.
+* The first meeting of APC partners in southern Africa was hosted by WorkNet/SANGONeT in [[Johannesburg]], supported through a project with Web Networks and Alternatives (then CIDMAA) in Canada.
+* Chasque in Uruguay, GlasNet in Russia and ComLink in [[Germany]] joined the APC.
+
+===1992===
+* APC provided the first online communications centre for NGOs and UN delegates at a UN conference — the Rio Earth Summit. Info posted onto APC conferences is accessed around the world and picked up and reprinted in NGO newsletters and magazines worldwide.
+* An attempted Russian coup is reported on APC networks via the [[GlasNet]] node.
+* APC node ZTN connects more than 1,700 peace, human rights and humanitarian workers and journalists from all countries in the Balkans war through 150+ e-conferences.
+* In September, over 17,000 users in 94 countries were using APC networks.
+* INTERCOM in Ecuador became the eleventh APC member.
+* IGC hosted the first APC Council meeting in San Francisco.
+
+===1993===
+* APC facilitated electronic communications for the UN Commission on [[Sustainable development|Sustainable Development]].
+* ComLink/CL-Net provided connectivity at the 1993 UN [[World Conference on Human Rights]] in [[Vienna]].
+* The APC Women's Networking Support Programme (APC WRP) was established and began preparations for the UN [[Fourth World Conference on Women]] in [[Beijing]] (1995).
+* The World Bank cancels plans to fund the controversial Namada Dam in India after activists organise throughout India and beyond using APC conferences.
+* GreenNet and [[Dutch people|Dutch]] group, Antenna, encouraged by Jagdish Parikh, established 'Asialink', a project providing start-up funding and technical support to small hosts in Asia working with [[social movement]]s in their countries.
+* The Green Spider [[telecommunication]]s network started up to link environmental civil society organisations in [[Hungary]].
+* SANGONeT is the first African organisation to join APC.
+
+===1994===
+* APC and Uruguayan member [[ITeM|Instituto del Tercer Mundo (ITeM)]] provided communications services at the UN International Conference on Population and Development in [[Cairo]].
+* Over 50 email hosts in Africa, Asia, Central and Eastern Europe, and the Caribbean are providing civil society organisations with email and e-information using the [http://old.gn.apc.org/anniversary/fido.html Fidonet gateways] in London, Toronto and San Francisco.
+* An APC cost-sharing project was launched, with the objective of reducing the expense to people in Africa and Asia of receiving and sending e-mail.
+* Several APC members attend the Internet Society's workshop for developing countries held in [[Prague]]. APC member staff acted as trainers and APC partner in the [[Czech Republic]], Econnect provided logistical support for the workshop.
+* Web Networks hosted an APC Council meeting just outside Toronto.
+* The StrawberryNet Network was established in [[Romania]], with the assistance of Green Spider.
+
+===1995===
+* APC received consultative (Category 1) status to the UN, in June.
+* NordNet from [[Sweden]] lead a group of local [[Danish people|Danish]] communications activists in setting up electronic communications at the UN World Summit on Social Development (WSSD) in [[Copenhagen]]. For the first time [[web browser]]s were available and the public were able to access an APC WSSD site.
+* A 40-woman team of APC communications experts provided connectivity and training to NGO participants at the Fourth World Conference on Women in Beijing, and — as part of Media Caucus — ensured that the issue of women and ICTs was placed on the UN Agenda.
+* APC technicians and training activists provided skills training at an [[Information science|informatics]] [[symposium]] hosted by Economic Commission for Africa in [[Ethiopia]].
+* Alternex/IBASE hosted an APC Council Meeting in Rio de Janeiro, Brazil.
+
+===1996===
+* SANGONeT hosted an APC-Africa-Women's technical training in Johannesburg for women system operators. Now that Internet access was becoming more widely available in some parts of the continent, Fidonet systems operators were given skills to make the transition to Internet.
+* The first APC [[Europe]]an Meeting was held in [[Slovenia]]. Other regional APC meetings were held in preparation for the 1997 APC Council meeting.
+
+===1997===
+* APC partnered with the United Nations Development Programme (UNDP) and other international organisations to organise the Global Knowledge conference in Toronto. Web Networks, APC's Canadian member, brought together the hundreds of NGOs using ICTs for international development participating physically and virtually using a Website and e-mail.
+* Web Networks and APC publishes the influential Working Together Online, which documents the lessons and techniques gained through APC experience in online networking.
+* An APC Africa Strategy Development Meeting was held in Johannesburg with more than 35 participants from APC member and partner networks from all over Africa. A powerful statement from the meeting — the "[http://www.apc.org/en/node/9667/ Holy Family Communiqué]" — outlined the position of development-oriented networks and information providers towards trends in private sector and donor investment in networking in Africa.
+* The APC mission was formalised at APC Council's meeting in South Africa, hosted at Itala by SANGONeT.
+
+===1998===
+* The first legal threat to freedom of information online. Two [http://europe.rights.apc.org/cases/biwater.html APC members in the UK and South Africa are threatened with legal action by transnational company Biwater] for a news article in their online archives. Thirteen APC members mirror the threatened content.
+* APC's [[Mexico|Mexican]] network, LaNeta, hosted an APC Council meeting in [[Oaxaca]], [[Mexico]] and an APC [[Europe]] Meeting was held in [[Nijmegen]], [[Netherlands]]. In Oaxaca APC makes a formal commitment to [[free and open source software]].
+* BlueLink, the information network of [[Bulgaria]]n environmental organisations, was founded, inspired by [[Hungary]]'s Green Spider network.
+
+===1999===
+* The first "World APC Techie Conference" brought together technical directors from all over the APC community in Prague.
+* An APC - Central Europe meeting was held in [[Kwacany]], [[Slovakia]].
+
+===2000===
+* APC facilitated and provided consultation and [[research]] services for the "Access" track of the Action Summit at the second Global Knowledge conference in [[Kuala Lumpur]]. The Action Summit created a plan of action for the Global Knowledge partner organisations, which included various government-related development agencies, companies, and NGOs involved in the development and ICT field.
+* The APC WRP co-coordinated a women's network ([http://www.womenaction.org/ WomenAction 2000]) to bring an NGO perspective to the UN Beijing +5 review. They survey 1,000 respondents online to produce a strongly worded NGO declaration. Official declarations promote ICT as a way of enhancing NGO participation in global policy making.
+* The first ever APC Betinho Communications Prize to recognise the socially meaningful use of ICTs was awarded to the Max Foundation, a life-saving online support network for the families of children suffering from [[leukaemia]] in [[Latin America]], and host of the region's first online [[bone marrow]] [[Biological tissue|tissue]] [[wikt:registry|registry]].
+* The APC Action Areas for 2000-2001 emerged at the APC Council meeting in [[Visegrád]], Hungary, hosted by Green Spider, for the first time identifying ICT policy advocacy as a core priority.
+* BlueLink from Bulgaria and Strawberry Net from Romania joined the APC.
+
+===2001===
+* New vision statement drafted at an APC council meeting held in Piriapolis, Uruguay hosted by the Third World Institute ([[ITeM]]): "APC works to achieve a world in which all people have easy, equal and affordable access to the creative potential of the internet to improve their lives and create more democratic and egalitarian societies."<ref>[http://www.apc.org/en/system/files/APC_ar2001_EN.pdf]</ref>
+* APC organises "internet rights" meetings in Asia, Europe and Latin America. Internet Rights and Policy Monitors are set up and a Rapid Response Network to mirror threatened sites is formalised.
+* APC and partners launched [http://www.itrainonline.org/itrainonline/english/index.shtml ItrainOnline] a portal which collects training materials on ICT for social change.
+* Women's programme begins testing and refining the first draft of the [[Gender Evaluation Methodology]] (GEM) for ICT initiatives in 25 projects in various developing countries
+
+===2002===
+
+* The first [http://www.apc.org/en/node/5677/ APC Internet Rights Charter] is published in three languages.
+* The [http://genardis.apcwomen.org/en GenARDIS] project is launched to provide small grants to improve agricultural initiatives by women through the better use of ICTs, eventually disbursing over €300,000 in direct seed grants over eight years.
+* First APC Africa Hafkin prize named after connectivity pioneer [[Nancy Hafkin]] is won by the [[Fantsuam Foundation]], a small microcredit scheme which goes on to be a key reference in Nigeria.
+* APC runs first ICT policy training workshops in Africa and India in the run-up to WSIS.
+
+===2003===
+
+* The APC [http://www.google.ca/#sclient=psy&hl=en&q=ICT+policy+handbook+for+beginners&aq=f&aqi=&aql=&oq=&pbx=1&fp=130c8f07ad931075 ICT policy handbook for beginners] is published together with a tri-lingual ICT policy training for civil society curriculum which includes a special section on advocacy for positive policy change.
+* APC Council meeting held Cartagena, Colombia, hosted by [[Colnodo]]. APC's [http://rights.apc.org/training/ ICT policy training curriculum for civil society] was first test-run there.
+* Maps of internet sites show that APC is the central civil society knowledge-sharing hub in a vast web of organisations working on the [[World Summit on the Information Society]].
+
+===2004===
+
+* Karen Banks and the [http://www.apcwomen.org/ APC WRP] are awarded the [http://anitaborg.org/about/who-we-are/karen-banks/#hide Anita Borg Prize for Social Impact]
+* APC moves into specifically national policy advocacy in five countries using "network animators" to stimulate multi-stakeholder dialogue as [http://www.apc.org/en/projects/accessibility/africa/catalysing-access-icts-africa-catia part of the Catalysing Access to ICTs in Africa (CATIA) programme].
+* APC begins [http://www.apc.org/en/projects/wireless/africa/wireless-africa training 100 technology enthusiasts in Africa] to set up community wireless networks.
+
+===2005===
+
+* APC declares the internet a "global public good".[http://www.apc.org/apps/img_upload/6972616672696361646f63756d656e74/policyframework_ICTDv4_1.doc]
+* APC organised a press conference in Tunisia to address the host government's suppression of free speech in the wake of the second World Summit on the Information Society.[http://www.edri.org/edrigram/number3.23/Civilsociety]
+* [http://www.genderit.org/ GenderIT.org] is launched.
+* APC members meet in Varna, [[Bulgaria]] hosted by [[Bluelink]], and begins exploring a [http://www.apc.org/en/node/9507/ code of good practice for internet governance] modelled on the [[Aarhus Convention]].
+
+===2006===
+
+* APC is nominated by peers to address post-WSIS deadlock and proposes the multi-stakeholder format of the IGF.[http://www.intgovforum.org/cms/cont_may08/APC_IGFStatement_200802.pdf]
+* First ever [[Take Back The Tech!]] campaign.
+* The second edition of the [http://www.apc.org/en/node/5677/ APC Internet Rights Charter] is published and translated into more than twenty languages.
+* APC and UNDP convene a workshop in 2006 on "open access".[http://www.propoor-ict.net/content/view/21/1/]
+
+===2007===
+
+* The first edition of [http://www.giswatch.org/ Global Information Society Watch] is published, focused on citizen participation in ICT policy processes in the wake of the [[World Summit on the Information Society]].
+* First [http://old.apc.org/english/chrisnicol/index.shtml Chris Nicol FOSS Prize] awarded.
+* The community [http://www.apc.org/en/projects/lac/wireless-lac-tricalcar wireless training developed in Africa is replicated in Latin America and the Caribbean], forming an eighteen-country network connecting indigenous communities, rural backwaters and impulsing university networking courses.
+* APC Council meets in Rio de Janeiro, Brazil hosted by Rits, just before the second [[Internet Governance Forum]].
+
+===2008===
+
+* Survey identifies APC as the most relevant actor in Latin American ICT processes after the UN Economic Commission for Latin America (ECLAC).[http://www.apc.org/en/news/ecuadorian-valeria-betancourt-lead-apcs-policy-pro]
+* Global Information Society Watch 2008 tackles access issues<ref>{{cite web|title=GISWatch 2008: Access to infrastructure|url=http://giswatch.org/en/2008}}</ref> 
+* First [http://ftx.apcwomen.org/ Feminist Tech Exchange] trains over 100 women's rights activists.
+* First regional [[Internet Governance Forum]]s co-organised in East Africa in Nairobi, Kenya and Montevideo, Uruguay in the build-up to the third IGF in Hyderabad.
+* APC has trained people from 680 organisations in technology for social change and ICT policy from 2004-2008. [http://www.apc.org/en/system/files/APCProgressReport2004-8_EN.pdf]
+
+===2009===
+
+* APC begins biggest ever women's rights and ICT project in twelve developing countries, as part of [[Millennium Development Goals]] 3 to promote gender equality and empower women. This includes first-of-their-kind studies of the situation of violence against women and ICTs in twelve countries and how legislation or lack of it hinders or helps women.[http://www.apc.org/en/node/10360/]
+* The Dominican government chooses APC's [[Gender Evaluation Methodology]] (GEM) as a tool to design and evaluate their ICT policies.[http://www.apc.org/en/press/dominican-republic-guarantees-womens-equality-tech]
+* APC a<ref>{{cite web|title=GISWatch 2011: Internet rights and democratisation|url=http://giswatch.org/en/2011}}</ref> nd Hivos publish [http://www.apc.org/en/system/files/GISW2009Web_EN.pdf Global Information Society Watch 2009 on access to online information and knowledge – advancing human rights and democracy]
+* Global Information Society Watch 2009 produces reports on Access to Online Information and Knowledge
+
+===2010===
+
+* APC awards USD 240,000 in small grants to over 60 projects working to end violence against women using technology.[http://www.apc.org/en/node/11239/]
+* GenARDIS has disbursed 310 000 euros in direct seed grants to 34 grassroots organisations since 2002.[http://www.apc.org/en/system/files/Genardis_EN.pdf]
+* Prof. Peter Willetts argues that if not for the APC decisions of the 1980s, the internet would not be the public and open platform it is today.[http://www.city.ac.uk/whatson/2009/10_oct/291009_Peter_Willetts.html]
+* [[Global Information Society Watch]] 2010 tackles the pressing issues of [[ICTs]] and [[climate change]] and [[e-waste]].
+* Sana Masood is runner up in the International Red Cross’ "Young Reporter" competition for a digital story she created about an acid attack survivor at a Feminist Tech Exchange workshop in Pakistan.[http://www.icrc.org/eng/resources/documents/misc/2010-11-19-young-reporters-event.htm]
+* Independent watchdogs for advocacy groups have voiced their dissatisfaction on the selection process for grant winners. For example grant winners for APC's MDG3 Take Back the Tech! Fund in certain participating countries seem to be in one way or another associated with APC's own staff member.
+
+===2011===
+
+* APC launches the [http://www.apc.org/en/projects/internet-rights-are-human-rights Internet Rights are Human Rights] campaign including a dedicated edition of GISWatch and a defence of human rights and women's rights workers working online.
+* APC and Hivos launch Global Information Society Watch 2011: Internet rights and democratisation
+* APC publishes [http://erotics.apc.org EroTICs], research on the real lived experiences of women around the internet and sexuality.
+* The eleventh face-to-face APC council meeting is held on Panglao Island in the Philippines, hosted by the [[Foundation for Media Alternatives]]. Over one hundred communications activists also attend a [http://nlf.apc.org/ Networking and Learning Forum] to strategise for an open, fair and sustainable internet.
+* The first ever Southern African IGF hosted by APC in Johannesburg<ref>{{cite web|last=APC|url=http://www.apc.org/en/news/governance/dotafrica-first-southern-african-igf-starts-sept-1}}</ref>
+
+===2012===
+
+* GISWatch 2012 was published, with a focus on the Internet and Corruption,<ref>{{cite web|title=GISWatch 2012: the internet and corruption|url=http://giswatch.org/2012-internet-and-corruption-online}}</ref> as well as 2 updates to GISWatch 2011: Update 1<ref>{{cite web|title=GISWatch 2011 Update I|url=http://www.giswatch.org/2011-update-i-internet-rights-and-democratisation}}</ref> and Update II<ref>{{cite web|title=GISWatch 2011 Update II|url=http://www.giswatch.org/2011-update-ii-internet-rights-and-democratisation}}</ref> 
+* APC opens membership to individual affiliates 
+* On July 5, 2012, the UN HRC approved a resolution stating that "the same rights that people have offline must also be protected online." <ref>{{cite web|last=Association for Progressive Communications|url=https://www.apc.org/en/node/14772/}}</ref> 
+* APC designed a manual called "Communicating research for influence: Strategies and challenges for bringing about change" based on their success stories and challenges in communicating research for influence<ref>{{cite web|title=Communicating Research for Influence|url=http://www.apc.org/en/node/15165/}}</ref>  
+* APC develops a practical guide to sustainable IT. It offers a detailed, "hands-on" introduction to thinking about sustainable computing holistically; starting with the choices you make when buying technology, through to the software and peripherals you use, how you store and work with information, manage your security, save power, and maintain and dispose of your old hardware<ref>{{cite web|last=Mobbs|first=Paul|title=A practical guide to sustainable IT|url=https://www.apc.org/en/node/14936/}}</ref>
+
+===2013===
+* APC co-organises the First African School on Internet Governance July 2013, Durban, South Africa yields 35 graduates from more than 15 African countries 
+* APC launches "Human rights and the internet" training curriculum www.apc.org/en/node/17164
+* Communication rights ten years after the World Summit on the Information Society (WSIS): Civil society perceptions http://www.apc.org/en/node/18482
+
+===2014===
+* APC joined the recently formed [[Alliance for Affordable Internet]], supporting its national multistakeholder engagements strategy
+* APC was invited to join Mr David Kaye's (the new UN Special Rapporteur on freedom of opinion and expression) network of expertise on internet issues
+* APC’s internet access and rights work moved into regional focus in Africa, Asia, Latin America, and the Middle East North Africa. In Africa, APC and partners launched the African Declaration on Internet Rights and Freedoms, after wide consultations. The Declaration was endorsed by 29 African stakeholders and four non-African stakeholders
+* Together with members and partners in Asia (India, Malaysia, and Pakistan), APC initiated a three-year EU-funded project focused on freedom of expression, freedom of assembly and association, and right to information online. 
+* In October APC joined with other Latin American civil society in an historic hearing at the Inter-American Human Rights Commission, calling on Commissioners to take up internet rights issues within the Commission’s mandate
+* In the Middle East and North Africa (MENA), in part through an EU-funded project, APC focused on new partnerships in the Universal Periodic Review (UPR), working with partners in Iraq and Egypt to develop stakeholder submissions. APC's work in MENA has also supported the digital security training of dozens of human rights defenders
+* [http://erotics.apc.org GISWatch 2014] was published with a focus on the state of communications surveillance in 57 countries across the world – countries as diverse as Hungary, India, Argentina, Gambia, Lebanon and the United Kingdom. 
+* APC co-organised the [http://african-ig-school.events.apc.org/ Second African School on Internet Governance] in July 2014 in Mauritius, with 50 graduates from more than 15 African countries 
+* APC played a key role in the [[World Summit on the Information Society]]+10 review process, identifying where there has been some progress – increased availability and use of ICTs,  recognition of internet rights, and engagement of stakeholders- and where there are gaps – new digital divides emerging, especially for women, the need for renewed commitment with public access, and lack of attention to development aspects of the internet society, among others. It also played a significant role in the [[NETMundial Initiative]] meeting in April 2014, with inputs to the preparatory process, promoting internet as a public good and human rights as the basis for internet governance.
+
+==Governance==
+[[File:Anriette Esterhuysen 01.JPG|thumb|Anriette Esterhuysen at [[Stockholm Internet Forum]] 2014]]
+APC's executive board members are currently: Valentina Pellizzer, Bosnia-Herzegovina (vice chair and acting chair); Andrew Garton,  Australia (secretary);  Anriette Esterhuysen, South Africa (executive director); Graciela Selaimen, Brazil ; Julian Casasbuenas Gallo, Colombia (treasurer); Liz Probert, United Kingdom (convenor of the audit committee); and Shahzad Ahmad, Pakistan.
+
+==Members==
+APC is a worldwide network of social activists who use the internet to make the world a better place. APC is both a network and an organisation. APC members are groups working in their own countries to advance the same mission as APC. As of December 2010, APC has 50 members from 35 countries.<ref name ="About APC">{{cite web| title = About APC|url = http://www.apc.org/en/about|quote=All people have easy and affordable access to a free and open internet to improve their lives and create a more just world.}}</ref> The members are at the two extremes of internet development (members in South Korea with incredible connectivity and members in rural Nigeria where they have to power computers using car batteries and solar power) and in between.<ref name ="APC Members">{{cite web| title = About Members|url = http://www.apc.org/en/about|quote=What unifies APC members is their work to promote the use of the internet for social justice and sustainable development.}}</ref>
+
+
+==Actions==
+===Gender evaluation methodology (GEM)===
+The [[Gender Evaluation Methodology]] is an evaluation methodology that integrates a [[gender analysis]] into evaluations of initiatives that use information and communications technologies (ICTs) for social change. It is an evaluation tool for determining whether ICTs are really improving or worsening women’s lives and gender relations, as well as for promoting positive change at the individual, institutional, community and broader social levels. It was first developed in 2002 and was tried and tested by thirty community-based organisations. Since then hundreds of people have become involved in GEM's development including people who developed the tool, who train in how to use GEM, who are adapting GEM (to increase its applicability to rural ICT4D projects, telecentres, software localisation and ICT policy advocacy and who are now offering GEM evaluations on a consultancy basis. The GEM manual was written in English and has been translated into French, Spanish, Brazilian Portuguese and Arabic.<ref>[http://www.apc.org/en/node/2835/ GEM manuals]</ref> GEM was developed by the APC Women's Rights Programme (APC WRP<ref>[http://www.apcwomen.org APC Women's Networking Support Programme]</ref>).
+
+===Global Information Society Watch===
+Global Information Society Watch is an annual report co-produced by APC and [[Hivos]], a Dutch organization for development, which looks at the progress being made in creating an inclusive [[information society]] worldwide (particularly in implementing [[World Summit on the Information Society]] goals), encourages critical debate and strengthens networking and advocacy for a just, inclusive information society. The country reports are easy to read and offer a quick insight into a country situation. Contributors are primarily from civil society organisations active in ICT issues in their countries. Themes covered include environment and ICTs, human rights and the internet and internet infrastructure. There is a [http://www.giswatch.org Giswatch book website].
+
+===2013 DDoS Attack===
+Beginning at 10.15 BST on Thursday 1 August 2013 GreenNet, and consequently APC, suffered an extensive [[Denial of service attack|DDoS attack]]. [1] The attack was later described as a "DNS reflection attack" also known as a [[Denial of service attack#Reflected .2F Spoofed attack|spoofed attack]] <ref>http://yro.slashdot.org/story/13/08/07/0315207/zimbabweans-hit-by-cyber-attacks-during-election</ref> Several sources linked the attack to the [[Zimbabwean general election, 2013|Zimbabwe Elections]], held a day earlier.<ref>http://www.theinquirer.net/inquirer/news/2287433/zimbabwe-election-hit-by-hacking-and-ddos-attacks</ref><ref>http://news.softpedia.com/news/Zimbabwe-s-Presidential-Election-Accompanied-by-Cyberattacks-373758.shtml</ref><ref>http://www.techweekeurope.co.uk/news/zimbabwe-election-cyber-attacks-123938</ref> GreenNet's services were not fully operational again until 10.30 BST on Thursday 7 August.<ref>http://mailman.greennet.org.uk/pipermail/greennet-l/2013-August/000121.html</ref> On the 9th of August there was a second attack, which, while affecting some systems, allowed GreenNet to discover the site which was being targeted.<ref>http://mailman.greennet.org.uk/pipermail/greennet-l/2013-August/000122.html</ref>  In October 2013, the target was revealed to be the site of British investigative reporter [[Andrew Jennings]].<ref>{{cite journal|journal=The Journalist|publisher=[[National Union of Journalists]]|location=London|date=October–November 2013|pages=14–16|first=Tim|last=Dawson|title=Brand new gag: the hidden war on press freedom|url=http://newmodeljournalism.com/2013/10/brand-new-gag-the-hidden-war-on-press-freedom/|accessdate=23 April 2014}}</ref>
+
+===ActionApps===
+ActionApps offer a low cost solution for content sharing that both increases the functionality of [[Non-profit organization|not-for-profit]] and [[Non-governmental organization|NGO]] [[website]]s, and facilitates the creation of [[Web portal|portal]]s sites so as to improve the visibility of [[civil society]] information. They are driven by [[free software]]. ActionApps were first developed by APC and released to the free and open source software community. Development continues strongly in South America.
+
+==Awards==
+* Karen Banks and the APC Women's Networking Support Programme are awarded the Anita Borg Prize for Social Impact (2004)
+* Through its ''[[Betinho]]'', ''[[Hafkin]]'' and ''Chris Nicol'' prizes, APC recognises and documents outstanding ICT contributions that significantly impact the world's communities. The prizes were last awarded in 2008.
+* Valeria Betancourt, Communications and Information Policy Programme manager, wins LACNIC's Outstanding Achievement Award, honouring internet leaders in the LAC region (October 31, 2012) 
+* APC's Executive Director Anriette Esterhuysen and Finance Manager Karen Banks are inducted into the Internet Society (ISOC) into the Internet Hall of Fame (2013)   
+* Executive Director Anriette Esterhuysen nominated for 2013 IT Personality of the year, which recognises a person who has made an outstanding impact on the South African ICT industry and a significant contribution to the ICT profession. She was the only woman and only civil society nominee. 
+* GISWatch wins WSIS Project Prize from the ITU<ref>{{cite web|title=GISWatch wins WSIS Prize|url=http://www.apc.org/en/news/giswatch-has-won-itu-awarded-wsis-project-prize-20}}</ref>
+
+==See Also==
+
+===North America===
+* [[Alternatives, Action and Communication Network for International Development]], Canada
+* [[Institute for Global Communications]] (IGC), United States of America
+* [[LaborNet]], United States of America
+* [[LaNeta]], Mexico
+* [[Web Networks]], Canada
+* [[May First/People Link]], United States of America
+
+===Latin America and the Caribbean===
+* [[CEPES]], Peru
+* [[Colnodo]], Colombia
+* [[Fundación Escuela Latinoamericana de Redes]] (EsLaRed), Venezuela
+* [[ITeM|Instituto del Tercer Mundo (ITeM)]], Uruguay
+* [[NODO TAU]], Argentina
+* RITS (Information Network for the Third Sector), Brazil
+* [[FUNREDES|Networks & Development Foundation - FUNREDES]], Dominican Republic
+* [[Wamani]], Argentina
+* [[Núcleo de Pesquisas, Estudos e Formação (Nupef)]], Brazil
+* [[ONG Derechos Digitales]], Chile
+* [[Sulá Batsú]], Costa Rica
+* [[Asociación Trinidad Comunicación, Cultura y Desarrollo]], Paraguay
+
+===Europe===
+* [[BlueLink Information Network]], Bulgaria
+* [[Computer Aid International]], United Kingdom
+* [[GreenNet]], United Kingdom
+* [[Green Spider]], Hungary
+* [[Metamorphosis Foundation]], Macedonia
+* [[OWPSEE]], Bosnia-Herzegovina
+* [[Pangea.org]], Spain
+* [[StrawberryNet]], Romania
+* [[ZaMirNet]], Croatia
+
+===Africa===
+* [[ArabDev]], Egypt
+* [[Fantsuam Foundation]], Nigeria
+* [[Arid Lands Information Network]] (East Africa), Kenya
+* [[Community Education Computer Society]] (CECS), South Africa
+* [[SANGONeT]], South Africa
+* [[Ungana-Afrika]], South Africa
+* [[Women'sNet]], South Africa
+* [[WOUGNET]] - Women of Uganda Network, Uganda
+* [[AZUR Développement]], Republic of the Congo
+* [[Kenya ICT Action Network (KICTANet)]], Kenya
+* [[Collaboration on International ICT Policy for East and Southern Africa (CIPESA)]], Uganda
+
+===Asia-Pacific===
+* [[Bytes for All.org]], South Asia
+* [[EngageMedia]], Australia, Indonesia
+* [[Foundation for Media Alternatives]] (FMA), Philippines
+* [[JCA-NET]], Japan
+* [[JCafe]], Japan
+* [[Korean Progressive Network Center]] (Jinbonet), South Korea
+* [[Open Institute of Cambodia]], Cambodia
+* [[WomensHub]], Philippines
+* [[Bangladesh Friendship Education Society (BFES)]] - Bangladesh 
+* [[Voices for Interactive Choice and Empowerment (VOICE)]], Bangladesh
+* [[Digital Empowerment Foundation (DEF)]], India
+* [[Society for Promotion of Alternative Computing and Employment]] (SPACE), India
+==Notes and references==
+{{refbegin}}
+* APC Annual Report 2000
+* APC WRP. "Women's Networking and ICTs: The character, achievements and challenges past and present of the APC Women's Networking Support Programme", APC Annual Report 2000
+* Brian Murphy. "The Founding of APC: Coincidences and Logical Steps in Global Civil Society Networking", APC Annual Report 2000
+* Brian Murphy. "Mike Jensen and the Code that stitched together the APC: The Pre-Internet Days and Early Efforts at Linking APC Nodes", APC Annual Report 2000
+* Karen Banks. "Fidonet: The 'Critical Mass' technology", APC Annual Report 2000
+* Peter Willetts, "NGOs, networking and the creation of the Internet", Chapter 4 of ''Non-Governmental Organizations in World Politics. The construction of global governance'', (London: Routledge Global Institutions Series, 2011).
+* Roberto Elissalde, "Need and Chance: APC in the Global South and the rise of some strong Southern members", APC Annual Report 2000
+* Rory O'Brien. "Enabling Civil Society Participation in Global Policy-Making: APC and the United Nations", APC Annual Report 2000
+* http://www.idrc.ca/books/848/index_e.html
+* http://www.apc.org/english/about/apcafrica/holy.htm
+* http://www.apc.org/english/about/mission/
+* [http://www.mitra.biz/apchistory/index.html Mitra Ardron's archive of early APC material]
+* [http://www.apc.org/en/about/history History of APC]
+* [http://www.apc.org/en/node/10678/ The internet is a "radically different" place because of APC] Karen Higgs and Frederick Noronha, APCNews, July 5, 2010
+{{refend}}
+
+{{Reflist}}
+
+== External links ==
+* [http://www.apc.org/ The Association for Progressive Communications] (English, French, Spanish and Portuguese)
+* [Publications/ http://www.apc.org/en/pubs]
+* [Projects/  http://www.apc.org/en/projects]
+
+{{DEFAULTSORT:Association For Progressive Communications}}
+[[Category:Organizations established in 1990]]
+[[Category:International nongovernmental organizations]]
+[[Category:Information technology organisations]]
+[[Category:Privacy organizations]]
+[[Category:Organizations with general consultative status to the United Nations Economic and Social Council]]

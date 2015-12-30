@@ -1,0 +1,95 @@
+{{AFC submission|||u=Gpeja|ns=118|ts=20150605175748}} <!-- Do not remove this line! -->
+
+{{AFC comment|1=Might scrape past notability. [[User:FoCuSandLeArN|FoCuSandLeArN]] ([[User talk:FoCuSandLeArN|talk]]) 23:20, 23 June 2015 (UTC)}}
+
+----
+
+{{Infobox Non-profit
+| Non-profit_name   = Society for Canadian Women in Science and Technology
+| Non-profit_logo   = [[Image:SCWISTlogo.gif]]
+| Non-profit_type   = Professional Organization
+| founded_date      = 1981
+| founder           = 
+| location          = Vancouver, BC
+| origins           =
+| key_people        = 
+| area_served       = BC and Yukon, Canada <ref name = "Registered charity source 2">{{cite web|title=Charity Focus|url=http://www.charityfocus.ca/EN/Pages/CharitySummary.aspx?CharityID=119154607RR0001|publisher=Imagine Canada|accessdate=2015-06-17}}</ref><ref>{{cite web|title=National Organizations|url=http://www.engineerscanada.ca/links-interest|publisher=Engineers Canada|accessdate=2015-06-26}}</ref>
+| focus             = 
+| method            = 
+| revenue           = <ref name="Sponsors">{{cite web|title=SCWIST Supporters|url=http://www.scwist.ca/about-scwist/scwist-supporters/|publisher=SCWIST|accessdate=2015-06-05}}</ref>
+| endowment         = [[Michael Smith (chemist)|Michael Smith]] Endowment Fund 
+| num_volunteers    = 
+| num_employees     = 
+| num_members       = 160+
+| owner             = 
+| Non-profit_slogan = 
+| homepage          = http://www.scwist.ca/
+| tax_exempt        = 
+| dissolved         = 
+| footnotes         = 
+}}
+
+The '''Society for Canadian Women in Science and Technology''' (SCWIST), founded in 1981<ref name = "Year of foundation">{{cite web|title=SFU Archive|url=http://www.sfu.ca/archives2/F-39/F-39.html|publisher=[[Simon Fraser University]] |date=2012-08-01}}</ref> , is a [[not-for-profit]] association that promotes, encourages and empowers women and girls in science, engineering and technology<ref name = " Registered charity source 1">{{cite web|title=Registered Canadian charities|url=https://www.canadahelps.org/en/charities/society-for-canadian-women-in-science-and-technology|publisher=Canada Helps|accessdate=2015-06-17}}</ref>. SCWIST is a society '''OF''' all genders working together '''FOR''' women. 
+
+==Mission<ref>{{cite news|last=Martin|first=C|title=Dr Maria Issa, President and Dr Julie Wong, Director, Society for Canadian Women in Science and Technology|url=http://www.research-europe.com/index.php/2012/12/dr-maria-issa-president-and-dr-julie-wong-director-society-for-canadian-women-in-science-and-technology/|publisher=Research Media Ltd|location=Bristol, UK|access-date=2015-06-28|date=2012-12-28|quote=JW: I think that in comparison to other countries Canada fares better in terms of the position of women in science and technology: the image of a female scientist is, for the most part, recognised. Our CAN $100 bank note shows a female scientist on it; however, the image of a female scientist in Canada is multifaceted. Canada is a country that is built on immigration and the ethnicity of visible minorities is something that has created controversy.}}</ref>==
+SCWIST promotes and empowers women working in science, engineering and technology to grow, develop, and succeed in their fields, as well as encourage and provide assistance to young women pursuing their dreams of a career in science.
+The Society works
+*to promote equal opportunities for women in scientific, technological and engineering careers;
+*to improve social attitudes on the stereotyping of careers in science and educate the public about careers in science and technology; and
+*to assist educators by providing current information on careers and career training, science and scientific policies.
+It realizes these goals through the organization of conferences and networking events, delivery of public educational outreach programs, production of resource material (videos, publications and handbooks), liaison with other organizations, and participation in granting, advocacy and advisory bodies.
+
+==History==
+The Society for Canadian Women in Science and Technology (SCWIST) was founded in Vancouver, BC in 1981<ref name = "Year of foundation" /> by six women: Mary Vickers, Hilda Ching<ref>{{cite report | last= Ching |first= Hilda |title=Hilda Ching's Final Report as Ruth Wynn Woodward Professor|url= http://summit.sfu.ca/item/10431|publisher=Simon Fraser University|format=pdf|date=1991|quote= When the National Committee for Women in Engineering was being organized, I participated for SCWIST in discussions on the kind of research which should be done to increase numbers of women engineers.}}</ref>, Abby Schwarz, Mary Jo Duncan, Diana Herbst and [[Margaret Benston]]. SCWIST is a volunteer non-profit organization incorporated under the BC Societies Act; in 1984 it was registered as a charity under the federal Income Tax Act<ref name = " Registered charity source 1"/> <ref name = "Registered charity source 2"/>. It continues as an active organization.
+
+From the six founders in 1981, membership in SCWIST has grown steadily. The Annual General Meeting held each spring and open to all members of the Society, votes on major decisions and elects the Executive Board of Directors. The Board is headed by the Society's president and meets regularly in Vancouver, while much of the on-going work of SCWIST is carried out by a number of standing and ad hoc committees appointed by the Board. Major milestones in SCWIST history include:
+*the production of the Registry of Skilled Women, BC and Yukon (1983), 
+*the organization of the first National Conference on Women in Science and Technology (1983), 
+*the development of the educational programs Girls in Science<ref name="Beginning of Ms Infinity">{{cite news |last=Szpitun |first=Lin|date=1991 |title=Women Do Math and Ms Infinity: Two Projects for Girls Who Like Math |url=http://en.copian.ca/litweb/other/cclow/newslet/1991/sumer_v9/cover.pdf|language=English and French|newspaper=WOMEN'S EDUCATION DES FEMMES |location=Toronto |access-date=2015-06-28}}</ref> (1984),
+*ms infinity (1990) and Project Tomorrow (1993), 
+*the establishment of the SCWIST scholarship (1986, renamed the Margaret Benston Scholarship in 1991), 
+*the opening of the Resource Centre (1992),
+*Michael Smith Endowment Fund established <ref>{{cite web| title=Dr. Michael Smith, Nobel Laureate |url=http://www.msl.ubc.ca/about/michaelsmith|publisher=[[University of British Columbia]]|accessdate=2015-06-05}}</ref>. Half of the price money from [[Nobel prize]] as well as the matching amount from different government  organizations was put into [[Vancouver Foundation]]'s Michael Smith Fund.<ref>{{cite book|title=No Ordinary Mike: Michael Smith, Nobel Laureate|author1=Eric Damer|author2=Caroline Astell|publisher=Ronsdale press|ISBN=1-55380-014-1|quote=The other half of his prize money went to Vancouver Foundation to fund public science education through Science World and the Society for Canadian Women in Science and Technology (SCWIST). A few colleagues were surprised by Mike's support for women - they could not remember him speaking at department meetings to support women in faculty position - but others accepted his rationale that he had always respected women as scientists and recognized that they encountered obstacles not faced by men. His first few doctoral students had been women, as were several of his most important collaborators. Behind the scenes, Mike supported women as candidates for teaching and research positions in his department, although gender parity was still a long way off.}}</ref>(1993),
+*launching of the SCWIST web site (1997),
+*Immigrating women in science (1999),
+*30 years anniversary<ref>{{cite web|title=SCWIST Expanding Horizons Since 1981|url=https://www.youtube.com/watch?v=IyQGxYo_2_I|publisher=SCWIST|date=2011-05-02}}</ref> (2011),
+*update of SCWIST web site and logos<ref>{{cite web|title=Inspire by example|url=http://www.scwist.ca/antonia-issa-inspire-by-example|publisher=SCWIST|date=2012-05-04}}</ref> (2012),
+*the development of the mentorship program <ref>{{cite web|title=
+Make Possible is a mentoring network to advance women in science and technology careers|url=http://www.makepossible.ca/about|publisher=SCWIST|accessdate=2015-06-04}}</ref>(2014).
+
+==Programs<ref name = "Registered charity source 2" /> ==
+===Makepossible===
+The [http://www.makepossible.ca/ makepossible] program was developed in 2014 with funding support from [[Minister responsible for the Status of Women (Canada)| Status of Women Canada]] to attract, retain and advance women in science and technology.<ref>{{cite web|title=Disclosure of Grant and Contribution Awards|url=http://www.swc-cfc.gc.ca/trans/account-resp/pd-dp/dgc-dsc/2013-2014/gc-sc-777-eng.html|publisher=Government of Canada|date=2013-06-17}}</ref><ref>{{cite news |last=Kristiansen |first=Cheryl |date=2015-06-04 |title=Attract and Retain Top Talent in STEM|url=http://www.hrvoice.org/attract-and-retain-top-talent-in-stem/|language=English |newspaper=HRVoice |location=Burnaby|access-date=2015-06-27|quote=As part of the Government of Canada’s Status of Women Initiative to advance women in technology, The Society for Canadian Women in Science and Technology (SCWIST) has developed programs and resources to understand and address gender diversity.}}</ref><ref>{{cite press release|last=Weston|first=John|title=Supporting Project Aimed at Advancing Women in the Canadian Digital Economy|url=http://www.johnweston.ca/?p=5331|access-date=2015-06-28|date=2013-10-16}}</ref>
+
+===Ms infinity===
+The ms infinity program (funded by [[Natural Sciences and Engineering Research Council]]<ref>{{cite web|title=PromoScience Program|url=http://www.nserc-crsng.gc.ca/Promoter-Promotion/PromoScience-PromoScience/Recipients-Laureats/index_eng.asp/|publisher=NSERC|date=2015-03-18}}</ref>) inspires young women in BC and Yukon by introducing them to exciting career options and education in science and technology.<ref name="Beginning of Ms Infinity"/><ref>{{cite news |last=Alphonso |first=Caroline|date=2012-11-22 |title=Science careers start with young girls |url=http://www.theglobeandmail.com/news/national/education/science-careers-start-with-young-girls/article5543555/|language=English |newspaper=The Globe and Mail |location=Toronto |access-date=2015-06-26|quote='Whether it’s obvious or not, there’s still a picture in everybody’s head of what a good scientist or what a good engineer looks like. And it’s often not a pretty young woman. There’s a responsibility among adults to show kids role models that reflect the reality, which is that there’s lots of women in science," said Sandra Eix, vice-president of programs for the non-profit Society for Canadian Women in Science and Technology.}}</ref>
+
+===IWIS===
+The Immigrating Women in Science program (IWIS), which offers mentorship and other resources to women who have immigrated to Canada after having trained and established careers in science, engineering and technology in other countries.<ref>{{cite news |last=Mcilroy |first=Anne|date=2012-12-02 |title=Looking worldwide for the women Canada needs |url=http://www.theglobeandmail.com/news/national/education/looking-worldwide-for-the-women-canada-needs/article5903980/|language=English |newspaper=The Globe and Mail |location=Toronto |access-date=2015-06-26|quote=”As the director of Immigrating Women in Science and Technology, a program offered by the Society for Canadian Women in Science and Technology, she helps recent arrivals build their networks, seek advice and share their common experiences. She wants to make it easier for female immigrants to land jobs in their fields. It is her way of giving back to her new country, which in the coming years will require increasing increasing numbers of people trained in the STEM professions: science, technology, engineering and math.}}</ref> IWIS is partially funded by British Columbia Government <ref name="Sponsors"></ref> <ref>{{ cite web|title=Where the Money Goes|url=https://www.gaming.gov.bc.ca/reports/docs/fin-rpt-grants-year-to-date-payments-2014-2015.pdf?|publisher=Province of British Columbia|accessdate=2015-06-05}}</ref>. IWIS also creates opportunities for the skilled immigrants to express their opinions.<ref>{{cite news|last=DeVoretz|first=Sacha|date=2011-06-18 |title=Highly educated female immigrants say Canada isn't on their side | url=http://www.vancouverobserver.com/world/canada/2011/06/18/highly-educated-female-immigrants-say-canada-isnt-their-side |language=English|publisher=Vancouver Observer|access-date=2015-06-26|quote=In June, The Society for Canadian Women in Science and Technology (SCWIST) hosted an event at a local Vancouver pub  to provide an opportunity for women in the sciences to exchange industry news and meet familiar faces. It helped women like Shrivastava learn about  opportunities and offered a supportive place for the women to express their apprehensions.}}</ref>
+
+===Other===
+*SCWIST workshops, speaker’s events and networking opportunities for early-stage or mid-career women to make valuable academic and industry contacts and develop a sense of community with other women in scientific fields. The prominent event held yearly is XX evening.<ref>{{cite press release |last=McCuaig|first=Amanda |date=2011-02-28 |title= Female scientists and engineers discuss rewards and challenges of their chosen career on International Women’s Day|url=http://www.scienceworld.ca/sites/default/files/2011-02-28%20XX%20Evening%20at%20Science%20World.pdf|format=pdf |language=English |location=Vancouver |publisher=Science World |access-date= 2015-06-26|quote=XX Evening 2011, now in its 20th year, is named after the XX chromosome which determines the female gender. It was designed by the Society for Canadian Women in Science and Technology to help with their mission of promoting, encouraging, and empowering women and girls in science, engineering, and technology. This will be the event’s 11th year at Science World and is part of a long standing partnership between SCWIST and Science World.}} </ref> 
+*Expanded programs such as scholarships<ref>{{cite web|title=SCWIST Scholarships|url=http://www.scwist.ca/programs-and-events/scholarships/|publisher=SCWIST|accessdate=2015-06-04}}</ref>
+*Events organized with partners such as CIHR Café Scientifique<ref>{{cite web|title=CIHR Café Scientifique|url=http://www.cihr-irsc.gc.ca/e/35898.html|publisher=[[Canadian Institutes of Health Research]]|accessdate=2015-06-04}}</ref>, Creating Connections <ref>{{cite web|title=Creating Connections 4.0|url=http://www.sfu.ca/sfuwest/cc-2015/schedule/full.html|publisher=[[Simon Fraser University]]|accessdate=2015-06-04}}</ref> and many others <ref>{{cite web|title=Women Engineers helping pre-landed Women Engineers through Online Pre-arrival Services|url=http://www.mosaicbc.com/women-engineers-helping-pre-landed-women-engineers-through-online-pre-arrival-services|publisher=MOSAIC|date=2015-02-28}}</ref> <ref>{{cite web|title=Gender Diverse Workplaces|url=https://www.apeg.bc.ca/About-Us/Commitment-to-Community/Gender-Diverse-Workplaces/Gender-Diverse-Workplaces-Get-Involved|publisher=[[APEGBC]]|accessdate=2015-06-04}}</ref>
+*An electronic communication mentoring program facilitates connections between female science professionals and younger women.<ref>{{cite web|title=E-Mentoring Projects|url=http://ementorillinois.ed.uiuc.edu/Resources/OtherProjects.html|publisher=E-Mentor Illinois|accessdate=2010-09-30}}</ref>
+*A network of women providing support to individuals, able to help when faced with the obstacles in the science and technology careers.<ref>{{cite news|last=Stukas|first=Anna|date=2012-10-09 |title=Time for women to explore new career horizons |url=http://www.vancouversun.com/technology/Opinion+Time+women+explore+career+horizons/7360074/story.html|deadurl=no|archiveurl=http://search.proquest.com/docview/1095771252?accountid=5705|archivedate=2012-10-12|language=English|publisher=The Vancouver Sun|access-date=2015-06-28|quote=It wasn't until my first industry meeting that it started to dawn on me that perhaps there was something "odd" about my choice of profession. When I walked into the room, everyone turned to stare at me-it took me a few moments to realize that I was the only woman there. Shortly after, I joined the board of the Society for Canadian Women in Science and Technology (SCWIST), looking for a support system of people who had experienced the same thing.}}</ref>
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+
+[https://www.apeg.bc.ca/Resources/News-and-Publications/Innovation-Magazine APEGBC Innovation Magazine featuring Anna Stukas, Past President]
+
+[http://www.thevantagepoint.ca/content/people-lens101-ways-move-your-organization-forward Vantage Point Guides Book 1 A People Lens featuring Linda Layton, SCWIST Director]
+ 
+[https://www.youtube.com/watch?v=4m6gj0gHNBI SCWIST - Volunteer week April 2009]
+
+[https://www.youtube.com/watch?v=eKq9jf0zjgU SCWIST - Volunteers 2009]
+
+[http://www.ccwestt.org  CCWESTT-Canadian Coalition of Women in Engineering, Science, Trades and Technology]
+
+[http://www.ieee.ca/wie/en/index.html  IEEE Women in Engineering in Canada]
+
+[http://www.wievr.ca  Women in Engineering (Vancouver Region)]
+
+[[:Category:Charities based in Canada]]
